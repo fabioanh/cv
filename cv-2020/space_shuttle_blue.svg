@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="422.36536mm"
+   height="451.30118mm"
+   viewBox="0 0 422.36536 451.30118"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="space_shuttle_blue.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="720.21447"
+     inkscape:cy="821.25893"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(259.72638,145.65261)">
+    <g
+       id="g5268"
+       transform="matrix(0.03527778,0,0,-0.03527778,-259.77812,305.78655)"
+       style="fill:#95c6c2;stroke:none;fill-opacity:1">
+      <path
+         id="path5266"
+         d="M 11150,12794 C 10502,12716 9530,12288 8345,11560 7333,10937 6159,10060 5360,9330 l -95,-87 -112,28 c -221,55 -312,64 -723,64 -366,0 -419,-3 -765,-41 C 3232,9247 2682,9149 2315,9055 1695,8895 1051,8612 575,8289 215,8045 21,7831 3,7656 c -15,-144 80,-238 287,-286 550,-127 829,-206 1235,-348 347,-122 631,-245 1000,-434 138,-71 325,-165 416,-211 166,-82 166,-82 192,-134 95,-191 374,-546 656,-835 41,-43 73,-79 70,-81 -2,-2 -58,-34 -124,-72 -442,-252 -792,-557 -998,-870 -213,-323 -307,-711 -277,-1143 6,-86 25,-281 42,-432 23,-205 32,-321 32,-455 1,-286 -21,-364 -189,-680 -173,-326 -256,-549 -241,-648 14,-94 79,-147 177,-147 145,0 372,110 934,452 271,164 358,188 1079,288 421,59 649,121 890,242 354,178 622,495 780,921 61,163 121,395 151,580 3,21 9,37 13,35 4,-2 66,-42 137,-89 273,-181 536,-325 707,-387 l 78,-28 68,-100 c 37,-54 130,-184 208,-289 368,-496 575,-830 828,-1335 147,-295 230,-479 348,-775 113,-282 130,-311 212,-363 56,-35 160,-38 226,-5 214,106 444,477 657,1058 156,428 280,982 322,1445 50,547 44,1381 -14,1898 -53,473 -158,862 -289,1077 l -24,40 110,180 c 1032,1684 1888,3727 2173,5185 76,386 99,594 99,895 1,310 -26,474 -103,640 -86,183 -198,282 -376,332 -49,14 -277,25 -345,17 z"
+         inkscape:connector-curvature="0"
+         style="fill:#95c6c2;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
